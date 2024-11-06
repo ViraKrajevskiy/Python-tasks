@@ -1,0 +1,26 @@
+{
+    "32656885236": {
+        "name": "virs",
+        "surname": "krajevskiy",
+        "cardpass": "3445",
+        "login": "vira ",
+        "password": "hero",
+        "balance": 403
+    },
+    "37259832758": {
+        "name": "vira",
+        "surname": "krajevskiy ",
+        "cardpass": "3245",
+        "login": "her",
+        "password": "drug",
+        "balance": 8812
+    },
+    "1234567891234567": {
+        "name": "Kamoliddin",
+        "surname": "Qobulov",
+        "cardpass": "1234",
+        "login": "Vira ",
+        "password": "herobrne",
+        "balance": 2507
+    }
+}
